@@ -1,0 +1,6 @@
+# Base de datos: cada integrante la descarga localmente, no se sube a GitHub
+data/
+
+# Basura de Jupyter / Python
+.ipynb_checkpoints/
+__pycache__/
